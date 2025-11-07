@@ -1,0 +1,6 @@
+requests
+selenium
+webdriver-manager
+selenium-stealth
+gspread
+2captcha-python
